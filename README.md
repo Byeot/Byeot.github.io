@@ -59,7 +59,7 @@
 ## 🙋🏻‍♀️Contact me
 <br>
 
-<p align="center"><a href="https://https://byeot95.tistory.com//"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://byeot95.tistory.com//"/></a>
+<p align="center"><a href="https://byeot95.tistory.com//"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://byeot95.tistory.com//"/></a>
 <a href="mailto:byeot95@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:byeot95@gmail.com"/></a></p>
 
 
