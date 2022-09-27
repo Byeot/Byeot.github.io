@@ -7,18 +7,20 @@
 
 # 📌 Yang JI Hyeon Portfolio
 
->[Byeot.github.io](Byeot.github.io)
+>[Byeot.github.io](https://Byeot.github.io)
 
 <br>
 
 ## :wave:introduction
+
 <br>
+
 * :computer: Usually using Java language for programmming  
 * 🤔:Learn constantly and think creatively. 
 
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Byeot&show_icons=true&theme=default) 
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yh4435)](https://solved.ac/yh4435/)  
 
 
