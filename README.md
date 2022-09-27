@@ -17,9 +17,7 @@
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Byeot&show_icons=true&theme=default)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yh4435)](https://solved.ac/yh4435/)
-
 
 
 
