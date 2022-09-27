@@ -9,6 +9,7 @@
 
 >[Byeot.github.io](Byeot.github.io)
 
+<br>
 
 ## :wave:introduction
 * :computer: Usually using Java language for programmming  
@@ -20,13 +21,17 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yh4435)](https://solved.ac/yh4435/)  
 
 
+<br>
 
 
 ## 👩🏻‍💻Tech Stack
 
-
+<img src="https://img.shields.io/badge/Java?style=for-the-badge&logo=007396&logoColor=white">
 
 ## 🙋🏻‍♀️Contact me
+
+<center><a href="byeot95@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=flat-square&logo=GMAIL&logoColor=white&link=byeot95@gmail.com"/></a></center>
+
 
 
 
