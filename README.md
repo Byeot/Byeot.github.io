@@ -33,6 +33,7 @@
 
 ## 👩🏻‍💻Tech Stack
 
+<br>
 
 <p align="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-the-badge&logo=java&logoColor=white"></a>
@@ -64,7 +65,8 @@
 
 <br>
 
-## 🙋🏻‍♀️Contact me
+## 🙋🏻‍♀️Contact me  
+
 <br>
 
 <p align="center"><a href="https://byeot95.tistory.com//"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://byeot95.tistory.com//"/></a>
