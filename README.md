@@ -21,11 +21,9 @@
 
 <div>
 
-<div align=right>
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yh4435)](https://solved.ac/yh4435/)  
 
-</div>
+
 
 
 ## 👩🏻‍💻Tech Stack
