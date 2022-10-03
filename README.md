@@ -51,7 +51,6 @@
 <img src="https://img.shields.io/badge/JSP-007396?style=flat-the-badge&logo=JSP&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-the-badge&logo=Node.js&logoColor=white"></a></p>
 
-
 <p align="center">
 <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=OracleDB&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
